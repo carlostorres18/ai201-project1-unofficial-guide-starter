@@ -13,7 +13,9 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+Course and professor reviews (general): student-written accounts of teaching style, workload, grading practices, and exam difficulty that provide practical context missing from official course descriptions. These firsthand insights are valuable for course selection and preparation but are dispersed across syllabi, forum threads, RateMyProfessors pages, and public course repositories, making them difficult to aggregate and search.
 
+This project collects and structures those scattered sources so readers can quickly find experience-based advice about instructors and courses.
 ---
 
 ## Document Sources
@@ -24,16 +26,18 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | CS107 (Stanford) course page | Syllabus/course hub | https://web.stanford.edu/class/cs107/ |
+| 2 | MIT OCW — 6.006 (Algorithms) | Syllabus & resources | https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/ |
+| 3 | MIT OCW — 6.0001 (Intro to CS) | Syllabus & instructor insights | https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/ |
+| 4 | Harvard CS50 syllabus | Syllabus & course policies | https://cs50.harvard.edu/x/2023/syllabus/ |
+| 5 | Open Syllabus Project | Aggregated syllabi dataset | https://opensyllabus.org/ |
+| 6 | GitHub search: syllabus university | Public course repositories | https://github.com/search?q=syllabus+university&type=repositories |
+| 7 | RateMyProfessors (search) | Instructor review pages | https://www.ratemyprofessors.com/search/teachers?query=computer%20science |
+| 8 | Reddit r/college (threads) | Student discussion threads | https://www.reddit.com/r/college/search?q=best%20professors&restrict_sr=1&type=link |
+| 9 | Quora — professor threads | Crowdsourced experiences | https://www.quora.com/Which-are-the-best-professors-in-your-college |
+| 10 | The Student Room | Student forum threads | https://www.thestudentroom.co.uk/search.php?search_terms=professors |
+| 11 | College Confidential | US college forums | https://www.collegeconfidential.com/search/?q=professor+reviews |
+| 12 | Example GitHub syllabi repos | Individual course materials (README/syllabus) | See results from GitHub search (link above) |
 
 ---
 
