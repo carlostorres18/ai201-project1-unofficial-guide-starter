@@ -1,0 +1,19 @@
+# Student Reviews — Professors (manually collected samples)
+
+Source type: short professor reviews paraphrased/anonymized from public student discussions. Used to exercise short-tier chunking.
+
+---
+
+Review A: "Prof. Bell at MIT is fantastic for 6.0001. Her examples are concrete and she answers questions thoroughly during office hours. Definitely take her lecture sections if you can."
+
+---
+
+Review B: "Prof. Demaine (6.006) is one of the most engaging algorithms instructors anywhere. His enthusiasm for the material is contagious. Lecture pace is fast though — review the notes after class."
+
+---
+
+Review C: "Avoid taking the algorithms course in summer term — the compressed schedule with the same workload is brutal. Take it during the regular semester if possible."
+
+---
+
+Review D: "Office hours are the secret weapon for these intro courses. Going once a week made the difference between drowning and thriving in CS107."

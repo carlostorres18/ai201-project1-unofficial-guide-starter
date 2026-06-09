@@ -1,0 +1,57 @@
+# source_id: mit_6_006
+# title: MIT OCW 6.006 — Introduction to Algorithms (Spring 2020)
+# url: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+# tier: long
+# fetched_at: 2026-06-09T18:21:21+00:00
+# --- begin cleaned text ---
+Undergraduate
+
+6.006 | Spring 2020 | Undergraduate
+
+Introduction to Algorithms
+
+Quizzes
+
+Practice Problems
+
+Course Description
+
+This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.
+
+Prof. Erik Demaine
+
+Dr. Jason Ku
+
+Prof. Justin Solomon
+
+Electrical Engineering and Computer Science
+
+Topics
+
+Engineering
+
+Computer Science
+
+Algorithms and Data Structures
+
+Theory of Computation
+
+Mathematics
+
+Computation
+
+Learning Resource Types
+
+Exam Solutions
+
+Exams
+
+Lecture Notes
+
+Lecture Videos
+
+Problem Set Solutions
+
+Problem Sets
+
+In the last lecture, Prof. Demaine demonstrates how he uses algorithms to create intricate origami figures. (Image courtesy of the instructors.)

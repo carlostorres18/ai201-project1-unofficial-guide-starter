@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "source_id": "cs50_syllabus",
+      "raw_chars": 6172,
+      "cleaned_chars": 4560,
+      "reduction_pct": 26.1
+    },
+    {
+      "source_id": "cs107_stanford",
+      "raw_chars": 16711,
+      "cleaned_chars": 13168,
+      "reduction_pct": 21.2
+    },
+    {
+      "source_id": "mit_6_0001",
+      "raw_chars": 5778,
+      "cleaned_chars": 881,
+      "reduction_pct": 84.8
+    },
+    {
+      "source_id": "mit_6_006",
+      "raw_chars": 5122,
+      "cleaned_chars": 949,
+      "reduction_pct": 81.5
+    },
+    {
+      "source_id": "open_syllabus",
+      "raw_chars": 1175,
+      "cleaned_chars": 775,
+      "reduction_pct": 34.0
+    },
+    {
+      "source_id": "reviews_intro_cs_sample",
+      "raw_chars": 1552,
+      "cleaned_chars": 1527,
+      "reduction_pct": 1.6
+    },
+    {
+      "source_id": "reviews_professors_sample",
+      "raw_chars": 927,
+      "cleaned_chars": 907,
+      "reduction_pct": 2.2
+    }
+  ]
+}

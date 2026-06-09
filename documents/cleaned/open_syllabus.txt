@@ -1,0 +1,21 @@
+# source_id: open_syllabus
+# title: Open Syllabus — Homepage
+# url: https://opensyllabus.org/
+# tier: long
+# fetched_at: 2026-06-09T18:21:21+00:00
+# --- begin cleaned text ---
+Mapping the college curriculum across
+32.9 million
+syllabi.
+Open Syllabus is a massive non-profit archive of the main activity of higher education: teaching. It provides top-down views of the curriculum across thousands of schools to support curricular innovation, lifelong learning, and student success.
+Open Syllabus works to expand the boundaries of open education. Most of its tools are free to use.
+Explore teaching across millions of syllabi from thousands of schools.
+
+See which courses should transfer across hundreds of schools.
+
+A navigable view of the whole project of anglophone higher education.
+
+The Open Syllabus Print Store
+Very large prints of the top-assigned titles in 11 fields, grouped into beautiful galaxies.
+
+News and data stories from Open Syllabus.

@@ -1,0 +1,54 @@
+{
+  "retrieved_on": "2026-06-09",
+  "sources": [
+    {
+      "file": "cs50_syllabus.txt",
+      "title": "CS50x 2023 Syllabus (Harvard)",
+      "url": "https://cs50.harvard.edu/x/2023/syllabus/",
+      "tier": "long",
+      "method": "requests + BeautifulSoup (raw HTML extraction)"
+    },
+    {
+      "file": "cs107_stanford.txt",
+      "title": "CS107: Computer Organization & Systems (Stanford, Spring 2026)",
+      "url": "https://web.stanford.edu/class/cs107/",
+      "tier": "long",
+      "method": "requests + BeautifulSoup (raw HTML extraction)"
+    },
+    {
+      "file": "mit_6_0001.txt",
+      "title": "MIT OCW 6.0001 \u2014 Introduction to CS and Programming in Python (Fall 2016)",
+      "url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "tier": "long",
+      "method": "requests + BeautifulSoup (raw HTML extraction)"
+    },
+    {
+      "file": "mit_6_006.txt",
+      "title": "MIT OCW 6.006 \u2014 Introduction to Algorithms (Spring 2020)",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+      "tier": "long",
+      "method": "requests + BeautifulSoup (raw HTML extraction)"
+    },
+    {
+      "file": "open_syllabus.txt",
+      "title": "Open Syllabus \u2014 Homepage",
+      "url": "https://opensyllabus.org/",
+      "tier": "long",
+      "method": "requests + BeautifulSoup (raw HTML extraction)"
+    },
+    {
+      "file": "reviews_intro_cs_sample.txt",
+      "title": "Student Reviews \u2014 Intro CS Courses (sample)",
+      "url": "manual-sample",
+      "tier": "short",
+      "method": "manual sample for short-tier chunker validation"
+    },
+    {
+      "file": "reviews_professors_sample.txt",
+      "title": "Student Reviews \u2014 Professors (sample)",
+      "url": "manual-sample",
+      "tier": "short",
+      "method": "manual sample for short-tier chunker validation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# source_id: reviews_intro_cs_sample
+# title: Student Reviews — Intro CS Courses (sample)
+# url: manual-sample
+# source_type: local
+# fetched_at: 2026-06-09T18:21:22+00:00
+# tier: short
+# --- begin raw text ---
+# Student Reviews — Intro CS Courses (manually collected samples)
+
+Source type: short student reviews paraphrased/anonymized from public forum discussions about introductory CS courses (CS50, MIT 6.0001, and similar). These are representative samples used to exercise the short-tier chunker.
+
+---
+
+Review 1 (CS50): "CS50 is rigorous but extremely well-produced. The lectures are entertaining and the problem sets are challenging. Expect to spend 10-20 hours per week if you're new to programming. The shift from Scratch to C in week 1 is a shock for beginners, but the staff and Discord community are very supportive."
+
+---
+
+Review 2 (CS50): "The grading is generous as long as you submit working code. style50 will nitpick formatting but it's a small part of the grade. Don't skip the walkthroughs — they save hours of debugging."
+
+---
+
+Review 3 (MIT 6.0001): "Great intro course if you've never programmed before. The pace is fast but Prof. Grimson explains concepts clearly. Problem sets are doable in a weekend. The recursion lecture is where most beginners struggle."
+
+---
+
+Review 4 (MIT 6.0001): "Watch the lecture videos before attempting the problem sets. The in-class questions help reinforce the material. Object-oriented programming is introduced late in the course and feels rushed."
+
+---
+
+Review 5 (CS107 Stanford): "CS107 is the weed-out class for CS at Stanford. Heap allocator at the end is brutal. Plan to camp out in the LaIR (the help room) during assignments 5 and 6. Pointers click eventually — just keep drawing memory diagrams."

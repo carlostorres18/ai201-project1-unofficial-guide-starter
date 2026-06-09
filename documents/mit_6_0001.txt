@@ -1,0 +1,9 @@
+# MIT OCW 6.0001 — Introduction to CS and Programming in Python (Fall 2016)
+
+Source URL: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+
+Course Description 6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their … 6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language. Course Info Instructors Dr. Ana Bell Prof. Eric Grimson Prof. John Guttag Departments Electrical Engineering and Computer Science Topics Engineering Computer Science Algorithms and Data Structures Programming Languages Learning Resource Types notes Lecture Notes theaters Lecture Videos assignment Problem Sets assignment_turned_in Programming Assignments with Examples 6.0001 is intended to teach basic programming concepts to students with no prior coding experience. ( Dboybaker , licensed CC-BY-NC-SA) Download Course
+Please be advised that external sites may have terms and conditions, 
+ including license rights, that differ from ours. MIT OCW is not responsible 
+ for any content on third party sites, nor does a link suggest an endorsement 
+ of those sites and/or their content.
