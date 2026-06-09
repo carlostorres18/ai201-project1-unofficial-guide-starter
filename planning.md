@@ -7,34 +7,25 @@
 
 ---
 
-```mermaid
-flowchart LR
-     A[Document Ingestion]
-     A_tool[[tools: requests / BeautifulSoup / wget]]
-     B[Chunking]
-     B_tool[[script: chunk_text() — sentence-boundary-aware]]
-     C[Embedding]
-     C_tool[[model: sentence-transformers/all-MiniLM-L6-v2]]
-     D[Vector Store]
-     D_tool[[ChromaDB (embeddings index, metadata store)]]
-     E[Retrieval]
-     E_tool[[top-k=5 semantic search → optional reranker]]
-     F[Generation]
-     F_tool[[LLM (OpenAI/GPT or local LLM) + grounding / attribution]]
+## Domain
 
-     A --> B
-     B --> C
-     C --> D
-     D --> E
-     E --> F
+Course and professor reviews (general): student-generated descriptions of teaching style, workload, grading, and exam difficulty across many institutions. This knowledge complements official syllabi by capturing lived experience (e.g., how instructors grade, which assignments are time-consuming, common exam traps) that is rarely summarized in course catalogs.
 
-     A --- A_tool
-     B --- B_tool
-     C --- C_tool
-     D --- D_tool
-     E --- E_tool
-     F --- F_tool
-```
+These insights are scattered across syllabi, forum threads, RateMyProfessors pages, and public course repositories, making them hard to aggregate or search; the Unofficial Guide will collect and structure these sources so users can retrieve practical, experience-based advice quickly.
+
+---
+
+## Documents
+
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
+| 1 | CS107 (Stanford) course page | Course announcements, syllabus, assignments | https://web.stanford.edu/class/cs107/ |
+| 2 | MIT OCW — 6.006 (Algorithms) | Syllabus, lecture notes, problem sets | https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/ |
+| 3 | MIT OCW — 6.0001 (Intro to CS, Python) | Syllabus, instructor insights, assignments | https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/ |
+| 4 | Harvard CS50 syllabus | Detailed expectations, problem sets, policies | https://cs50.harvard.edu/x/2023/syllabus/ |
+| 5 | Open Syllabus Project | Aggregated syllabi dataset and analytics | https://opensyllabus.org/ |
+| 6 | GitHub — public syllabi repos search | Many public course repos (syllabi, notes) | https://github.com/search?q=syllabus+university&type=repositories |
+| 7 | RateMyProfessors (search) | Student reviews of instructors (multiple pages) | https://www.ratemyprofessors.com/search/teachers?query=computer%20science |
 | 8 | Reddit r/college (threads) | Student threads about best/worst professors | https://www.reddit.com/r/college/search?q=best%20professors&restrict_sr=1&type=link |
 | 9 | Quora — professor recommendation threads | Crowdsourced recommendations and experiences | https://www.quora.com/Which-are-the-best-professors-in-your-college |
 | 10 | The Student Room — discussion threads | UK student forum threads about professors | https://www.thestudentroom.co.uk/search.php?search_terms=professors |
